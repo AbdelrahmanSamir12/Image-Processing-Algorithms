@@ -12,7 +12,19 @@ Image_Processing_Algorithms is a desktop application built with PyQt that implem
 - **Sharpening**: Laplacian and enhancement techniques
 - **Time Transmission**: Image size, baud rate, grayscale channel calculations
 - **Histogram Analysis**: Displays original and output histograms
+  
+## GUI overview
+### Layout
+![alt text](https://github.com/AbdelrahmanSamir12/Image-Processing-Algorithms/blob/main/GUI/layout.png "GUI Layout")
 
+### Contract stretching
+![alt text](https://github.com/AbdelrahmanSamir12/Image-Processing-Algorithms/blob/main/GUI/contrast_stretching.png "Contract stretching example")
+
+### Canny Edge Detection 
+![alt text](https://github.com/AbdelrahmanSamir12/Image-Processing-Algorithms/blob/main/GUI/canny.png "Canny Edge Detection example")
+
+### Sobel Edge Detection
+![alt text](https://github.com/AbdelrahmanSamir12/Image-Processing-Algorithms/blob/main/GUI/sobel.png "Sobel Edge Detection example")
 ## Installation
 1. Clone the repository:
    ```sh
@@ -27,7 +39,6 @@ Image_Processing_Algorithms is a desktop application built with PyQt that implem
    ```sh
    python main.py
    ```
-## GUI overview
 ## Usage
 - Open the application and load an image.
 - Apply various image processing algorithms using the provided controls.
