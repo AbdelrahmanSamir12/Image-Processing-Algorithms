@@ -37,7 +37,7 @@ Image_Processing_Algorithms is a desktop application built with PyQt that implem
    ```
 3. Run the application:
    ```sh
-   python main.py
+   python Main.py
    ```
 ## Usage
 - Open the application and load an image.
