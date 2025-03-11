@@ -1,0 +1,9 @@
+PyQt5
+qdarkstyle
+numpy
+qimage2ndarray
+matplotlib
+pillow
+opencv-python
+qimage2ndarray
+imageio
